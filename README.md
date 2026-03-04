@@ -1,2 +1,2 @@
-# Practicas
-26Fp-Sistemas de control de actitud mediante IA
+# AI courses
+I'm currently enrolled in courses to broad my formation on AI, these are some exercices I've completed :)
